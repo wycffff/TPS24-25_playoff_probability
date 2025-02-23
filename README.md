@@ -1,2 +1,4 @@
 # TPS24-25_playoff_probability
 The probability of TPS making the playoffs was calculated on February 23, 2025 via Monte Carlo simulation.
+
+The code and explanations presented herein are intended solely for informational and illustrative purposes. They do not constitute professional or financial advice, nor should they be relied upon as the basis for any real-world decisions. All views expressed herein are those of the author alone and do not necessarily reflect the positions or opinions of any associated entities or third parties. No guarantees or warranties, whether explicit or implied, are provided regarding the accuracy, completeness, or reliability of the information. By using or sharing this material, you agree that the author will not be held liable for any outcomes resulting from its use.
